@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Eco</string>
+    <string name="app_name2">Recicla</string>
+    <string name="statistics">Estadisticas</string>
+    <string name="total">Total Reciclado</string>
+    <string name="paper">Papel</string>
+    <string name="glass">Vidrio</string>
+    <string name="cardboard">Cartón</string>
+    <string name="plastic">Plástico</string>
+    <string name="metal">Metal</string>
+    <string name="electronics">Electrónicos</string>
+    <string name="Average">Promedio</string>
+
+</resources>
